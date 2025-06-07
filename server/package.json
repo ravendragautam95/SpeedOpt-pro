@@ -1,0 +1,21 @@
+{
+  "name": "pagespeed-api-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for PageSpeed Insights API to handle CORS",
+  "main": "api-proxy.js",
+  "scripts": {
+    "start": "node api-proxy.js",
+    "dev": "nodemon api-proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["api", "proxy", "pagespeed", "cors"],
+  "author": "",
+  "license": "MIT"
+} 
