@@ -40,6 +40,8 @@
     "@radix-ui/react-toggle-group": "^1.1.9",
     "@radix-ui/react-tooltip": "^1.2.6",
     "@tanstack/react-query": "^5.56.2",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "autoprefixer": "^10.4.20",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
@@ -49,6 +51,7 @@
     "lucide-react": "^0.507.0",
     "motion": "^12.9.7",
     "next-themes": "^0.3.0",
+    "postcss": "^8.4.47",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
     "react-dom": "^18.3.1",
@@ -58,8 +61,10 @@
     "recharts": "^2.15.3",
     "sonner": "^1.7.4",
     "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.11",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
+    "vite": "^5.4.1",
     "zod": "^3.24.4",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.2"
@@ -70,16 +75,11 @@
     "@types/node": "^22.5.5",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "@vitejs/plugin-react-swc": "^3.5.0",
-    "autoprefixer": "^10.4.20",
     "eslint": "^9.9.0",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
     "eslint-plugin-react-refresh": "^0.4.9",
     "globals": "^15.9.0",
-    "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.11",
     "typescript": "^5.5.3",
-    "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1"
+    "typescript-eslint": "^8.0.1"
   }
 }
